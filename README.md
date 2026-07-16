@@ -23,7 +23,7 @@ Proyecto de reutilización: Convertí una pantalla de laptop HP en un monitor po
 
 ### Kit comprado (Caja de metal)
 
-<img width="600" height="600" alt="case-back" src="https://github.com/user-attachments/assets/209c32b9-0dd8-4fad-ad9a-f0ea0c044c42" />
+<img width="250" height="250" alt="case-back" src="https://github.com/user-attachments/assets/209c32b9-0dd8-4fad-ad9a-f0ea0c044c42" />
 ### Anuncio del kit
 <img src="images/aliexpress-kit.jpg" width="600" alt="Kit de AliExpress">
 
