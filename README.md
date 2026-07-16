@@ -7,6 +7,20 @@ Proyecto de reutilización: Convertí una pantalla de laptop HP en un monitor po
 - **Kit comprado**: Placa controladora Micro USB + **Caja de metal** con montaje VESA 75x75mm
 - Objetivo: Crear un segundo monitor barato, portable y que se pueda usar tanto en horizontal como en **vertical**.
 
+## 📍 Estado actual del proyecto (15 de julio 2026)
+
+- **✅ Pantalla identificada**: AU Optronics B156XTK01.0 (40 pin eDP)
+- **✅ Kit seleccionado**: Kit 2 con caja de metal y VESA 75x75mm
+- **✅ Repo de documentación creado** en GitHub
+- **⏳ En espera**: Llegada del kit de AliExpress
+- **⏳ Pendiente**: 
+  - Comprar fuente de poder 12V
+  - Armado del monitor
+  - Pruebas en horizontal y vertical
+  - Fotos del unboxing y funcionamiento
+
+**Próxima meta**: Armar el monitor completo y subir video/fotos del resultado.
+
 ## 🛒 Materiales y enlaces
 - Pantalla extraída de laptop HP
 - [Kit 2 - Placa controladora Micro USB + Caja de metal con VESA](https://a.aliexpress.com/_mKdlnxN)
