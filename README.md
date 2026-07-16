@@ -1,3 +1,4 @@
+<img width="327" height="322" alt="case-back" src="https://github.com/user-attachments/assets/209c32b9-0dd8-4fad-ad9a-f0ea0c044c42" />
 # DIY Portable Monitor - B156XTK01.0
 
 Proyecto de reutilización: Convertí una pantalla de laptop HP en un monitor portátil segundo usando un kit de AliExpress.
@@ -21,8 +22,8 @@ Proyecto de reutilización: Convertí una pantalla de laptop HP en un monitor po
 <img src="images/panel-etiqueta.jpg" width="600" alt="Etiqueta del panel B156XTK01.0">
 
 ### Kit comprado (Caja de metal)
-<img src="images/case-back.jpg" width="600" alt="Caja trasera con VESA">
 
+<img width="600" height="600" alt="case-back" src="https://github.com/user-attachments/assets/209c32b9-0dd8-4fad-ad9a-f0ea0c044c42" />
 ### Anuncio del kit
 <img src="images/aliexpress-kit.jpg" width="600" alt="Kit de AliExpress">
 
