@@ -1,48 +1,46 @@
 # DIY Portable Monitor - B156XTK01.0
 
-Proyecto escolar/personal: Convertí una pantalla de laptop HP en un monitor portátil segundo usando controladoras de AliExpress.
-
-![Banner](https://via.placeholder.com/800x200?text=DIY+Portable+Monitor) <!-- Luego cambia por tu foto -->
+Proyecto de reutilización: Convertí una pantalla de laptop HP en un monitor portátil segundo usando un kit de AliExpress.
 
 ## 📋 Sobre el proyecto
-- **Pantalla**: AU Optronics B156XTK01.0 (15.6" - 1366x768 - 40 pin eDP)
-- **Kits comprados**:
-  - Kit 1: Placa controladora HDMI-Mini + 2 Type-C
-  - Kit 2: Placa controladora Micro USB + **Caja de metal** con VESA 75x75mm
-- Objetivo: Tener un segundo monitor barato y portable (incluso en vertical).
+- **Pantalla**: AU Optronics **B156XTK01.0** (15.6" - 1366x768 - 40 pin eDP)
+- **Kit comprado**: Placa controladora Micro USB + **Caja de metal** con montaje VESA 75x75mm
+- Objetivo: Crear un segundo monitor barato, portable y que se pueda usar tanto en horizontal como en **vertical**.
 
-## 🛠 Materiales
+## 🛒 Materiales y enlaces
 - Pantalla extraída de laptop HP
-- 2 kits de AliExpress (links en la sección de referencias)
-- Fuente de poder 12V 2-3A (pendiente)
-- (Opcional) Soporte VESA
+- [Kit 2 - Placa controladora Micro USB + Caja de metal con VESA](https://a.aliexpress.com/_mKdlnxN)
+- Fuente de poder 12V 2-3A (pendiente de comprar)
+- Soporte VESA 75x75mm (brazo o base, pendiente)
 
 ## 📸 Galería
 
-![Etiqueta del panel](images/panel.jpg)
-![Caja trasera con VESA](images/case-back.jpg)
-![Ensamblado final](images/assembled.jpg)
+*(Subiré fotos del unboxing, ensamblaje y pruebas aquí)*
 
-## 🔧 Cómo armarlo (paso a paso)
-1. Extraer la pantalla con cuidado.
-2. Conectar el cable ribbon eDP de 40 pines al board.
-3. Conectar alimentación 12V.
-4. Conectar HDMI o USB-C a la PC.
-5. Configurar orientación en Windows (Portrait si quieres vertical).
+- Etiqueta del panel
+- Caja trasera mostrando los orificios VESA 75x75mm
+- Proceso de ensamblaje
+- Monitor funcionando en horizontal y vertical
 
-## 📝 Notas y problemas
-- (Actualizaré aquí conforme vaya armando)
+## 🔧 Instrucciones básicas
+1. Conectar el cable ribbon **eDP 40 pines** de la pantalla al board.
+2. Alimentar el controlador con **12V**.
+3. Conectar HDMI o USB-C a la computadora.
+4. Para uso vertical: Fijar la caja al soporte VESA y rotar la imagen en Windows (Configuración → Sistema → Pantalla → Orientación).
+
+## 📝 Próximos pasos
+- Recibir el kit
+- Armar el monitor
+- Probar en ambas orientaciones
+- Documentar problemas y soluciones
 
 ## 🎯 Aprendizajes
-- Reutilización de hardware
-- Interfaces eDP
+- Reutilización de hardware de laptop
+- Interfaces eDP y controladoras LCD
+- Montaje mecánico con VESA
 - Documentación de proyectos DIY
-
-## Referencias
-- AliExpress links...
-- Datasheet B156XTK01.0
 
 ---
 
-**Hecho por Frijolitoloveshorchata**  
-Sonora, México - 2026  
+**Hecho por [@Frijolitoloveshorchata](https://github.com/Frijolitoloveshorchata)**  
+Heroica Guaymas, Sonora, México - Julio 2026
