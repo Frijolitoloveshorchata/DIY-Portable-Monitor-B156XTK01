@@ -15,8 +15,6 @@ Proyecto de reutilización: Convertí una pantalla de laptop HP en un monitor po
 
 ## 📸 Galería
 
-## 📸 Galería
-
 ### Pantalla original
 <img width="250" height="250" alt="panel-etiqueta" src="https://github.com/user-attachments/assets/c9f1108f-173f-4832-b7fa-34fe5ca9b323" />
 
