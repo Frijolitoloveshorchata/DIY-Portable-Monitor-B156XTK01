@@ -15,14 +15,16 @@ Proyecto de reutilización: Convertí una pantalla de laptop HP en un monitor po
 
 ## 📸 Galería
 
+## 📸 Galería
+
 ### Pantalla original
-![Etiqueta del panel B156XTK01.0]<img width="1179" height="1479" alt="panel-etiqueta" src="https://github.com/user-attachments/assets/a39a990f-b1c5-44d9-a773-52b8e1e46319" />
+<img src="images/panel-etiqueta.jpg" width="600" alt="Etiqueta del panel B156XTK01.0">
 
 ### Kit comprado (Caja de metal)
-![Caja trasera con VESA 75x75mm]<img width="327" height="322" alt="case-back" src="https://github.com/user-attachments/assets/34394c61-a582-4264-9aed-0a86787d0bec" />
+<img src="images/case-back.jpg" width="600" alt="Caja trasera con VESA">
 
 ### Anuncio del kit
-![Kit AliExpress]<img width="356" height="371" alt="aliexpress-kit" src="https://github.com/user-attachments/assets/611281e2-082d-48ec-b257-a3f9835328f7" />
+<img src="images/aliexpress-kit.jpg" width="600" alt="Kit de AliExpress">
 
 
 - Etiqueta del panel
